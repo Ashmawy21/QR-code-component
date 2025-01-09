@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif,'Poppins' ;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #D5E1EF;
+    height: 1000px;
+}
+
+.card{
+width: 30%;
+height: auto;
+background: white;
+padding: 25px ;
+border-radius: 10px;
+transform: translate(120%);
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+h1{
+    margin: 10px;
+}

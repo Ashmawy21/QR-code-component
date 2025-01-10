@@ -8,7 +8,6 @@
 
 body{
     background-color: #D5E1EF;
-    height: 1000px;
 }
 
 .card{
@@ -17,7 +16,7 @@ height: auto;
 background: white;
 padding: 25px ;
 border-radius: 10px;
-transform: translate(120%);
+transform: translatex(50%);
 }
 
 img{
